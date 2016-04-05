@@ -1,0 +1,2 @@
+class Baseballer < Player
+end
